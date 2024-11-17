@@ -58,12 +58,12 @@ namespace WinFormsApp2
 
         private async Task ReceiveMessages()
         {
-            var buffer = new byte[1024 * 4];
-            Debug.Print("ОТРИМАЛИ ПОВІДОМЛЕННЯ");
+            var buffer = new byte[1024 * 1000000];
             while (_webSocket.State == WebSocketState.Open)
             {
                 // отримай повідомлення в байтах і конвертуй в стрінг 
                 var result = await _webSocket.ReceiveAsync(new ArraySegment<byte>(buffer), _token);
+            Debug.Print("ОТРИМАЛИ ПОВІДОМЛЕННЯ");
                 var message = Encoding.UTF8.GetString(buffer, 0, result.Count);
                 try
                 {
@@ -84,7 +84,7 @@ namespace WinFormsApp2
                 }
                 catch (System.Text.Json.JsonException jsonEx)
                 {
-                    Console.WriteLine($"Invalid JSON: {jsonEx.Message}");
+                    Debug.WriteLine($"Invalid JSON: {jsonEx.Message}");
                 }
 
             }

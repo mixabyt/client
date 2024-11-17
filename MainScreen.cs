@@ -25,7 +25,7 @@ namespace WinFormsApp2
             InitializeComponent();
 
 
-            _webSocketClient = new WebSocketClient("ws://16.171.206.175:8080/ws");
+            _webSocketClient = new WebSocketClient("ws://localhost:8080/ws");
            
 
             // Підключення до WebSocket

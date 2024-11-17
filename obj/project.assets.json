@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\folder\\apps\\csharpapp\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+      "projectUniqueName": "D:\\folder\\apps\\csharpapp\\WinFormsApp2 – test\\WinFormsApp2\\WinFormsApp2.csproj",
       "projectName": "WinFormsApp2",
-      "projectPath": "D:\\folder\\apps\\csharpapp\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+      "projectPath": "D:\\folder\\apps\\csharpapp\\WinFormsApp2 – test\\WinFormsApp2\\WinFormsApp2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\folder\\apps\\csharpapp\\WinFormsApp2\\WinFormsApp2\\obj\\",
+      "outputPath": "D:\\folder\\apps\\csharpapp\\WinFormsApp2 – test\\WinFormsApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

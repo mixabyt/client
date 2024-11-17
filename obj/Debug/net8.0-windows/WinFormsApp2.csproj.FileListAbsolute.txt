@@ -21,3 +21,26 @@ D:\folder\apps\csharpapp\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinF
 D:\folder\apps\csharpapp\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.ChatScreen.resources
 D:\folder\apps\csharpapp\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.QueueScreen.resources
 D:\folder\apps\csharpapp\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.ChatScreen.resources
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.MainScreen.resources
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.QueueScreen.resources
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.sourcelink.json
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\folder\apps\csharpapp\WinFormsApp2 – test\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll

@@ -37,9 +37,9 @@ namespace WinFormsApp2
             // 
             // progressBar1
             // 
-            progressBar1.Location = new Point(384, 220);
+            progressBar1.Location = new Point(235, 220);
             progressBar1.Name = "progressBar1";
-            progressBar1.Size = new Size(100, 23);
+            progressBar1.Size = new Size(412, 23);
             progressBar1.TabIndex = 0;
             // 
             // backbutton
@@ -60,13 +60,14 @@ namespace WinFormsApp2
             // findinglabel
             // 
             findinglabel.AutoSize = true;
-            findinglabel.Location = new Point(406, 156);
+            findinglabel.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            findinglabel.Location = new Point(217, 126);
             findinglabel.Name = "findinglabel";
-            findinglabel.Size = new Size(150, 15);
+            findinglabel.Size = new Size(430, 45);
             findinglabel.TabIndex = 2;
             findinglabel.Text = "Шукаємо співрозмовника";
             // 
-            // QueueUsers
+            // QueueScreen
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -74,8 +75,9 @@ namespace WinFormsApp2
             Controls.Add(findinglabel);
             Controls.Add(backbutton);
             Controls.Add(progressBar1);
+            Cursor = Cursors.AppStarting;
             MinimumSize = new Size(816, 489);
-            Name = "QueueUsers";
+            Name = "QueueScreen";
             Text = "QueueUsers";
             ResumeLayout(false);
             PerformLayout();

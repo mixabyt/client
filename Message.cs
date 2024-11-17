@@ -40,6 +40,11 @@
         public string type;
         public string text;
     }
+    public class PhotoMessage
+    {
+        public string type;
+        public byte[] photo;
+    }
     public class LeaveDialog
     {
         public string type;
